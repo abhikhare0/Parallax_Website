@@ -1,2 +1,2 @@
 # Parallax_Website
-i Developed Parallax Website Using HTML CSS.
+I Developed Parallax Website Using HTML CSS.
